@@ -2,7 +2,7 @@
 
 ## Introduction
 
-For this tech case, I developed a media player application with essential functionalities to enhance user experience. The app allows users to play, pause, stop, fast-forward, and rewind media seamlessly. Additionally, it handles interruptions gracefully and supports background music playback when minimized.
+The Neighbourhood App makes it easier for people to connect with their local government. It allows citizens to share their concerns, report issues, and stay informed about important updates in their area.
 
 ## Table of Contents
 
