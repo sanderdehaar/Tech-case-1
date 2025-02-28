@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Neighbourhood App makes it easier for people to connect with their local government. It allows citizens to share their concerns, report issues, and stay informed about important updates in their area.
+I created a media player app with simple and useful features to improve user experience. The app lets users play, pause, stop, fast-forward, and rewind media easily. It also manages interruptions smoothly and allows background music playback when minimized.
 
 ## Table of Contents
 
