@@ -30,7 +30,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/sanderdehaar/Tech-case-1.git
    ```
 2. Navigate to the project directory:
    ```sh
